@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "server": {
+            "command": "uv",
+            "args": [
+                "--directory", 
+                "Path of server",
+                "run",
+                "server.py"
+            ]
+        }
+    }
+}
