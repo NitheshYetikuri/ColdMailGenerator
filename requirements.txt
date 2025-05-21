@@ -1,9 +1,0 @@
-langchain_google_genai
-os
-langchain_community
-streamlit
-langchain_core
-pandas
-uuid
-numpy
-faiss-cpu
