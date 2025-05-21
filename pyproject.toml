@@ -1,0 +1,19 @@
+[project]
+name = "coldmailgenerator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "faiss-cpu>=1.11.0",
+    "langchain>=0.3.25",
+    "langchain-community>=0.3.24",
+    "langchain-core>=0.3.60",
+    "langchain-google-genai>=2.1.4",
+    "langchain-groq>=0.3.2",
+    "mcp>=1.9.0",
+    "mcp-use>=1.2.13",
+    "python-dotenv>=1.1.0",
+    "streamlit>=1.45.1",
+]
